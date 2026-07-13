@@ -155,10 +155,6 @@ The output confirms that the queries were executed successfully.
 
 ![Experiment 1 Output](image.png)
 
-## Image Explanation
-
-The screenshot shows the SQL editor with insertion queries executed for all six tables. It also includes the retrieval queries for the first records from Doctors, Patients, and Appointments. The output panel confirms that the first doctor record was returned successfully, showing that the insert and select operations worked as expected.
-
 ## Result
 
 The required data was inserted into all specified tables, and the first records from Doctors, Patients, and Appointments were retrieved successfully.
