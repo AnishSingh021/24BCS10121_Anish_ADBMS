@@ -157,4 +157,4 @@ The output confirms that the queries were executed successfully.
 
 ## Result
 
-The required data was inserted into all specified tables, and the first records from Doctors, Patients, and Appointments were retrieved successfully.
+The required data was inserted into all specified tables, and the first records from Doctors, Patients, and Appointments were retrieved successfully
